@@ -12,7 +12,7 @@
           },
           {
             "style": "plain",
-            "foreground": "#e6edf3",
+            "foreground": "#ffffff",
             "template": "➜ ",
             "type": "text"
           },
@@ -37,7 +37,7 @@
           },
           {
             "style": "plain",
-            "foreground": "#e6edf3",
+            "foreground": "#ffffff",
             "template": "$",
             "type": "text"
           }
